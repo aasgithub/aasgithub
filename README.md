@@ -4,16 +4,6 @@ Software Developer focused on building scalable **Back-end**, **Full Stack**, an
 
 ---
 
-### 🚀 Featured Project: AutoHomeApp Ecosystem
-
-An end-to-end platform built to manage at-home maintenance and repair services for cars and motorcycles:
-
-* ⚙️ **[AutoHomeApp (Back-end)]** — REST API built with Java, Spring Boot, PostgreSQL, Flyway, Docker, and Makefile.
-* 🖥️ **[AutoHomeApp (Front-end)]** — Web client application built with Vue.js 2, Vuetify, Vuex, and Axios.
-* ☁️ **[AutoHomeApp (Infrastructure)]** — Infrastructure as Code (IaC) on AWS automated with Terraform and Bash scripts.
-
----
-
 ### 🛠️ Technical Skills
 
 * **Back-end:** Java, Spring Boot, Python
