@@ -17,5 +17,5 @@ Software Developer focused on building scalable **Back-end**, **Full Stack**, an
 
 ### 📫 How to reach me
 
-* **GitHub:** [@aasgithub](https://github.com)
+* **GitHub:** [@aasgithub](https://github.com/aasgithub)
 * **LinkedIn:** [Anderson Silva](https://www.linkedin.com/in/anderson-silva-94a9ab84)
